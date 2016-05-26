@@ -1,0 +1,12 @@
+/*登录*/
+/*中间*/
+#denglu{width: 351px;height: 363px;position: absolute;right: 0;top: 0;border-left: 1px solid #000000;background: #fefefe;color: #3e3e3e}
+#denglu p{font-size: 14px;font-weight: bold; margin-left: 28px;margin-top: 8px; width: 322px;height: 21px;}
+#form input{margin-left:28px;margin-top:22px;width:277px;height: 37px;border: 1px solid #cccccc; line-height: 37px;font-size: 14px;padding-left: 4px;}
+#form_div{width:277px;height: 37px;line-height: 37px;margin:22px 28px 22px;}
+#form_div input:last-child{margin-left: 30px;}
+#form_div_btn{width:277px;height: 37px;line-height: 37px;margin-left:30px}
+#form_div_btn button{width:104px;height: 35px;line-height: 34px;color:#ffffff;font-size: 14px;border:0;background: url(../img/common/regist_01.png) no-repeat 0 -75px;cursor: pointer;}
+#form_div_btn span{padding-left: 15px;}
+#form_div_btn span a{padding: 0 5px;}
+#form_div_btn span a:hover{text-decoration: underline;}

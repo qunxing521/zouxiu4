@@ -1,0 +1,21 @@
+/*注册*/
+/*中间*/
+a:hover{text-decoration: underline;}
+#zhuce{width:647px;height: 520px;background: #ffffff;border-right: 1px solid #cccccc;border-left:1px solid #cccccc;font-size: 14px;color: #3e3e3e;}
+#zhuce p{font-weight: bold; margin: 0 20px; width: 580px;height: 22px;border-bottom: 1px solid #cccccc;padding:15px 0 5px 35px;}
+#zhuce p a{display: block;width: 145px;height: 14px;float: right;color: red;font-size: 12px;font-weight: 100;}
+#zhuce p a span{color: #4d90c2;}
+#zhuce_form{width:647px;height: 340px;margin: 0 20px;word-spacing: 3px;}
+#zhuce_form li em{color:#f00;margin-right: 5px;}
+#zhuce_form li input{width:265px;height: 19px;padding: 8px 5px;border: 1px solid #a0a0a0;margin: 10px 30px 10px 0;}
+#zhuce_form li a{color: #3e3e3e;display:block;width:135px;height:37px;line-height:28px;text-align:center;margin-left: 101px;font-weight: bold;background: url(../img/common/regist_01.png) no-repeat 0px -150px;cursor: pointer;font-size: 12px;}
+#zhuce_form li a:hover{text-decoration: none;}
+#zhuce_form li div{width: 265px;height: 19px;margin-left: 101px;}
+#zhuce_form li div span{display: block;width: 85px;height: 18px;color: #999;float: left;line-height: 6px;font-size: 12px;}
+#zhuce_form li b{width:45px;height: 6px;display:block;float:left;line-height: 0px;font-size: 0;border:2px solid #fff;background: #f0f0f0;font-weight: bold;}
+.last_input{width:265px;height: 30px;margin-left: 122px; font-size: 12px;margin-top: 10px;line-height: 30px;}
+.last_input a{color: #4d90c2;}
+#r_btn{width:450px;height: 40px;margin-left: 122px;margin-top: 30px;}
+#r_btn button{float:left;width: 160px;height: 38px; background: url(../img/common/regist_01.png) no-repeat -142px -36px; color: #fff;font-size: 14px;}
+#r_btn span{font-size: 12px;padding-left: 10px;display: block; width: 270px;height: 20px;float: left; margin-top: 20px;}
+#r_btn span a{color: #4d90c2;}

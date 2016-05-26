@@ -1,0 +1,49 @@
+/*首页头部*/
+*{margin: 0;padding: 0;}
+#header{width: 100%;height: auto;background: #333333;}
+#hBox{width: 1349px;height: 93px;margin: 0 auto;}
+#hBox_c{width: 1200px;height: 82px;margin: 0 auto;position: relative;}
+#hBox_c_l{width: 400px;height: 34px;float: left;margin-top: 5px;}
+#hBox_c_l ul{width:360px;height: 35px;}
+#hBox_c_l ul li{float: left;height: 35px;line-height: 35px;padding:0 5px;}
+#hBox_c_l ul li.hBox_c_l a{display: block;width: 55px;height: 35px;background: url(../img/common/spriter2016.png) no-repeat -220px -40px;padding-left: 18px;}
+#hBox_c_l ul li a{color: #bfbfbf;}
+#hBox_c_m{width: 212px;height: 32px;margin: 0 auto;position: absolute;left: 499px;top:0}
+#hBox_c_r{width: 263px;height: 28px;position: absolute; top: 11px;right: 0px;}
+#hBox_c_r input{ float:left;background: #333333; border: 1px solid #787878;color: #787878;height: 28px;width: 248px;padding-left: 10px;}
+#hBox_c_r button{width:28px;height: 26px;background: url(../img/common/spriter2016.png) no-repeat 0px -42px;border: none;position:absolute;right: 2px;top: 0;}
+#hBox_c_bottom{width:1200px;height: 60px;float: left;}
+#hBox_c_bottom ul{width: 822px;height:60px;margin: 0 auto;color: #eee;font-size: 15px;font-weight: bold;}
+#hBox_c_bottom ul li{width: 70px;line-height: 60px;float: left; text-align: center;}
+#hBox_c_bottom ul li:last-child{width: 90px;}
+#hBox_c_bottom ul li a{display: block;width: 60px;height: 54px; color: #eee;}
+#hBox_c_bottom ul li:last-child a{width: 72px;}
+#hBox_c_bottom ul li a:hover{color:#787878;border-bottom: 2px solid #787878;}
+/*首页尾部*/
+#footer_index{width: 100%;height: 389px;background: #FFFFFF;border-top: 3px solid #9a9a9a;margin-top: 20px;}
+#footer_index_fBox{width: 100%;height: 183px;background: #ebebeb;}
+#fif_c{width: 1349px;height: 183px;margin: 0 auto;padding-top: 20px;}
+#fif_c_f{width: 183px;height: 125px;float: left;}
+#fif_c_f p{width: 183px; height: 35px;line-height: 35px;font-size: 16px;color: #252525;margin-left: 70px;font-family: "微软雅黑";}
+#fif_c_f p.p_s{height: 45px; line-height: 45px;}
+/*注册/登录样式公共部分*/
+/*头部*/
+#header_r{width: 100%; height: auto;}
+#header_box{width:1349px;height: 825px;margin: 0 auto;}
+#header_box_tBox{height: 103px;border-bottom: 1px solid #000000;}
+#header_box_tBox_d{height: 103px;border-bottom: 2px solid #000000;}
+#header_box_top{width: 960px; height: 103px;margin: 0 auto;padding-top: 25px;}
+#header_box_top img{cursor: pointer;}
+/*中间*/
+#header_box_center{width: 1349px;height: 520px;background: url(../img/regist/regist-ad-img-demo.jpg) no-repeat center center;}
+#header_box_center_d{width: 1349px;height: 410px;background: url(../img/login/login-ad-img-demo-2.jpg) no-repeat center center;}
+#header_box_cBox{width: 960px;height: 521px;margin: 0 auto;position: relative;}
+/*底部*/
+#footer{width:960px;height: 100px;margin: 0 auto; border-top: 1px solid #e0e0e0;}
+#footer.footer{margin-top: 100px;}
+#footer a:hover{text-decoration: underline;}
+#fBox{width:960px;height: 100px;margin: 0 auto;color: #777777;}
+#fBox ul{width:558px;height: 14px;margin: 20px auto;}
+#fBox ul li{width:48px;height: 14px;font-size: 12px;float: left;background: url(../img/common/borderf.jpg) no-repeat right center;padding: 0 10px;}
+#fBox ul li:last-child{background: none;}
+#f_p{width: 353px;height: 13px;margin: 20px auto;font-size: 12px;color: #777777;}
